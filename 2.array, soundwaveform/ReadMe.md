@@ -5233,19 +5233,19 @@ b =
 
 ### # image
 
-![Screen Shot 2018-10-30 at 9.23.00 PM](Screen Shot 2018-10-30 at 9.23.00 PM.png)
+![arr1](arr1.png)
 
-![Screen Shot 2018-10-30 at 9.23.14 PM](Screen Shot 2018-10-30 at 9.23.14 PM.png)
+![arr2](arr2.png)
 
-![Screen Shot 2018-10-30 at 9.23.43 PM](Screen Shot 2018-10-30 at 9.23.43 PM.png)
+![arr3](arr3.png)
 
-![Screen Shot 2018-10-30 at 9.25.17 PM](Screen Shot 2018-10-30 at 9.25.17 PM.png)
+![arr4](arr4.png)
 
-![Screen Shot 2018-10-30 at 9.25.42 PM](Screen Shot 2018-10-30 at 9.25.42 PM.png)
+![arr5](arr5.png)
 
-![Screen Shot 2018-10-30 at 10.18.29 PM](Screen Shot 2018-10-30 at 10.18.29 PM.png)
+![att6](att6.png)
 
-![Screen Shot 2018-10-30 at 10.27.02 PM](Screen Shot 2018-10-30 at 10.27.02 PM.png)
+![att7](att7.png)
 
-![Screen Shot 2018-10-30 at 10.36.22 PM](Screen Shot 2018-10-30 at 10.36.22 PM.png)
+![att8](att8.png)
 

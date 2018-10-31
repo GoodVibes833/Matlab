@@ -21,8 +21,8 @@
 
 ![sample](sample.png)
 
-![Screen Shot 2018-10-31 at 10.24.58 AM](Screen Shot 2018-10-31 at 10.24.58 AM.png)
+![img1](img1.png)
 
-![Screen Shot 2018-10-31 at 10.26.26 AM](Screen Shot 2018-10-31 at 10.26.26 AM.png)
+![img2](img2.png)
 
-![Screen Shot 2018-10-31 at 10.26.58 AM](Screen Shot 2018-10-31 at 10.26.58 AM.png)
+![img3](img3.png)
